@@ -1,0 +1,5 @@
+{
+  "name": "Silicon Eaglercraft Launcher",
+  "description": "A modern, stealthy launcher for Eaglercraft (Minecraft in the browser). Play 1.8.8, 1.5.2, and more with instant panic features.",
+  "requestFramePermissions": []
+}
